@@ -7,7 +7,9 @@ namespace TestGitHub
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("primeiro commit"); ;
+            Console.WriteLine("primeiro commit");
+            Console.WriteLine("segundo commit");
+
         }
     }
 }
