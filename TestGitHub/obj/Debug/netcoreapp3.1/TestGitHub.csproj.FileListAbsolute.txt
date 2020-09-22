@@ -1,0 +1,11 @@
+C:\Users\ketla\Desktop\curso C#\TestGitHub\TestGitHub\bin\Debug\netcoreapp3.1\TestGitHub.exe
+C:\Users\ketla\Desktop\curso C#\TestGitHub\TestGitHub\bin\Debug\netcoreapp3.1\TestGitHub.deps.json
+C:\Users\ketla\Desktop\curso C#\TestGitHub\TestGitHub\bin\Debug\netcoreapp3.1\TestGitHub.runtimeconfig.json
+C:\Users\ketla\Desktop\curso C#\TestGitHub\TestGitHub\bin\Debug\netcoreapp3.1\TestGitHub.runtimeconfig.dev.json
+C:\Users\ketla\Desktop\curso C#\TestGitHub\TestGitHub\bin\Debug\netcoreapp3.1\TestGitHub.dll
+C:\Users\ketla\Desktop\curso C#\TestGitHub\TestGitHub\bin\Debug\netcoreapp3.1\TestGitHub.pdb
+C:\Users\ketla\Desktop\curso C#\TestGitHub\TestGitHub\obj\Debug\netcoreapp3.1\TestGitHub.csprojAssemblyReference.cache
+C:\Users\ketla\Desktop\curso C#\TestGitHub\TestGitHub\obj\Debug\netcoreapp3.1\TestGitHub.AssemblyInfoInputs.cache
+C:\Users\ketla\Desktop\curso C#\TestGitHub\TestGitHub\obj\Debug\netcoreapp3.1\TestGitHub.AssemblyInfo.cs
+C:\Users\ketla\Desktop\curso C#\TestGitHub\TestGitHub\obj\Debug\netcoreapp3.1\TestGitHub.dll
+C:\Users\ketla\Desktop\curso C#\TestGitHub\TestGitHub\obj\Debug\netcoreapp3.1\TestGitHub.pdb

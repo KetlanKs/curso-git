@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ketla\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ketla\\.nuget\\packages"
+    ]
+  }
+}
